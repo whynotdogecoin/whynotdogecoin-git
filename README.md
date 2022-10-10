@@ -1,1 +1,1 @@
-Hello, my friend!
+Hello, friend! How are you?
